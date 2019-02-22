@@ -15,3 +15,7 @@ end
 
 group :development do
 end
+
+gem 'bundler', '~> 1.16', '>= 1.16.1'
+
+# gem install bundler -v 1.16.1    bundle _1.16.1_ install
